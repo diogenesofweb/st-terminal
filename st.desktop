@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=ST - Simple Terminal
+GenericName=Terminal
+Comment=Suckless terminal emulator for X
+Exec=st -t "Simple Terminal" -f "Hack Nerd Font:size=12.5"
+Terminal=false
+Type=Application
+Encoding=UTF-8
+Icon=utilities-terminal
+Categories=System;TerminalEmulator;
+Keywords=shell;prompt;command;commandline;cmd;
