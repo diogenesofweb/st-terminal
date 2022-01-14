@@ -76,7 +76,7 @@ st-scrollback-20210507-4536f46.diff
 st-scrollback-mouse-20191024-a2c479c.diff
 st-vertcenter-20180320-6ac8c8a.diff
 st-anysize-0.8.4.diff # for better window tiling
-st-moonfly-0.8.2.diff # color theme
+st-gruvbox-material-0.8.2.diff # color theme
 ```
 
 Adjust the font (family and size) and copy the desktop entry for app launching.
@@ -89,3 +89,9 @@ vi st.desktop
 
 cp st.desktop ~/.local/share/applications/st.desktop
 ```
+
+---
+
+Terminal will probably crash on emoji.
+
+But it is a good option for using with Neovim if the hardware is too old for Kitty-terminal.
